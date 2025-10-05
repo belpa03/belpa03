@@ -25,15 +25,6 @@
 
 ---
 
-### 📂 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [Data-Analysis---Dashboard](https://github.com/belpa03/Data-Analysis---Dashboard) | Interactive supermarket sales dashboard built in Excel | Excel, PivotTable |
-| [customer-churn-prediction](https://github.com/belpa03/customer-churn-prediction) | Churn prediction using Logistic Regression & Decision Tree | Python, Jupyter Notebook |
-| [Belvafitria](https://github.com/belpa03/Belvafitria) | My GitHub Profile setup | Markdown |
-
----
-
 ### 📊 GitHub Stats
 ![Belva's GitHub stats](https://github-readme-stats.vercel.app/api?username=belpa03&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belpa03&layout=compact&theme=radical)
