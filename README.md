@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Belva Fitria Rahma!
 
-📊 Aspiring Data Analyst/ Data Scientist |🎓 Fresh Graduate of Business Statistics ITS
+📊 Aspiring Data Analyst/ Data Scientist |🎓 Fresh Graduate of Business Statistics ITS |
 💡 Passionate about transforming data into meaningful insights  
 
 🌍 Based in Bandung, Indonesia  
@@ -14,6 +14,7 @@
 - 📈 Experienced in **Exploratory Data Analysis (EDA)** and **Predictive Modeling**
 - ⚙️ Tools I use: `Python`, `SQL`, `Excel`, `Power BI`, `Tableau`, `R`
 - 🌱 Currently learning **Machine Learning** and **Dashboard Automation**
+- 💼 Ex-Intern: **Marketing Management Intern at PT Finnet Indonesia**
 
 ---
 
@@ -33,7 +34,7 @@
 
 ### 💬 Let's Connect!
 📩 Reach out for collaborations, data analysis projects, or just to chat about analytics.
-## Hi there 👋
+
 
 <!--
 **belpa03/belpa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
