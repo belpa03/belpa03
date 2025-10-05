@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Belva Fitria Rahma!
 
-🎓 Data Enthusiast | 📊 Aspiring Data Analyst  
+📊 Aspiring Data Analyst/ Data Scientist |🎓 Fresh Graduate of Business Statistics ITS
 💡 Passionate about transforming data into meaningful insights  
 
 🌍 Based in Bandung, Indonesia  
-📧 belvafitria03@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/belvafitria03) | [Kaggle](https://www.kaggle.com/) | [Portfolio Website](https://)
+📧 rahmabelva03@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/belvafitriarahma) | [Kaggle](https://www.kaggle.com/) | [Portfolio](https://bit.ly/PortofolioBelvaFitria)
 
 ---
 
@@ -13,12 +13,12 @@
 - 🎓 Currently exploring **Data Analytics & Machine Learning**
 - 📈 Experienced in **Exploratory Data Analysis (EDA)** and **Predictive Modeling**
 - ⚙️ Tools I use: `Python`, `SQL`, `Excel`, `Power BI`, `Tableau`, `R`
-- 🌱 Currently learning **Deep Learning** and **Dashboard Automation**
+- 🌱 Currently learning **Machine Learning** and **Dashboard Automation**
 
 ---
 
 ### 🛠️ Tech Stack
-💻 **Languages:** Python, R, SQL, DAX  
+💻 **Languages:** Python, R, SQL,  
 📊 **Tools:** Excel, Power BI, Tableau, Google Looker Studio  
 🧠 **Machine Learning:** scikit-learn, Pandas, NumPy, Matplotlib  
 🗃️ **Database:** MySQL, PostgreSQL  
