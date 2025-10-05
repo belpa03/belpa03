@@ -10,7 +10,6 @@
 ---
 
 ### 🧠 About Me
-### 🧠 About Me
 - 🎓 Exploring **Data Analytics, Machine Learning, and Data Science**
 - 📈 Experienced in **Exploratory Data Analysis (EDA)** and **Predictive Modeling**
 - ⚙️ Tools I use: `Python`, `SQL`, `Excel`, `Power BI`, `Tableau`, `R`
