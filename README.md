@@ -10,11 +10,13 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Currently exploring **Data Analytics & Machine Learning**
+### 🧠 About Me
+- 🎓 Exploring **Data Analytics, Machine Learning, and Data Science**
 - 📈 Experienced in **Exploratory Data Analysis (EDA)** and **Predictive Modeling**
 - ⚙️ Tools I use: `Python`, `SQL`, `Excel`, `Power BI`, `Tableau`, `R`
-- 🌱 Currently learning **Machine Learning** and **Dashboard Automation**
+- 🌱 Currently working on **freelance Data Analyst projects**
 - 💼 Ex-Intern: **Marketing Management Intern at PT Finnet Indonesia**
+
 
 ---
 
