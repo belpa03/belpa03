@@ -5,7 +5,9 @@
 
 🌍 Based in Bandung, Indonesia  
 📧 rahmabelva03@gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/belvafitriarahma) | [Kaggle](https://www.kaggle.com/) | [Portfolio](https://bit.ly/PortofolioBelvaFitria)
+💼 [LinkedIn](https://www.linkedin.com/in/belvafitriarahma)  
+🗂️ [Portfolio](https://bit.ly/PortofolioBelvaFitria)
+
 
 ---
 
