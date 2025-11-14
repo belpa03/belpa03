@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Belva Fitria Rahma!
 
 📊 Aspiring Data Analyst/ Data Scientist |🎓 Fresh Graduate of Business Statistics ITS |
-💡 Passionate about transforming data into meaningful insights  
+
 
 🌍 Based in Bandung, Indonesia  
 📧 rahmabelva03@gmail.com 
